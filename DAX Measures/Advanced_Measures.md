@@ -44,9 +44,7 @@ Engineering Stability Index =
         [Total Refreshes],
         0
     ) * 20
-)
--
-[Refresh Volatility Index]
+) - [Refresh Volatility Index]
 
 # Access Hygiene Score --
 
