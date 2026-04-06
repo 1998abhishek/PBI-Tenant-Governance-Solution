@@ -34,8 +34,7 @@ AVERAGEX(
 
 Engineering Stability Index = 
 
-([Refresh Success Rate %] * 100)
--
+([Refresh Success Rate %] * 100) -
 (
     DIVIDE(
         CALCULATE(
