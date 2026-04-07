@@ -4,7 +4,7 @@
 
 Engineering Waste Ratio % = DIVIDE(CALCULATE(SUM('gold dim_Dataset'[SizeMB]),'gold dim_Dataset'[IsInactive]=TRUE()),[Total Dataset Storage (MB)],0)
 
-# Failed Refreshes ==
+# Failed Refreshes --
 
 Failed Refreshes = 
 CALCULATE(
