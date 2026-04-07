@@ -95,7 +95,7 @@ The project follows a **layered data architecture**:
 ![Data Model](docs/data_model.png)
 
 
-<img width="1539" height="802" alt="asfsefsefesf" src="https://github.com/user-attachments/assets/6df6fc78-7b88-457a-aa18-83f4de36de8b" />
+<img width="1441" height="739" alt="DATA_MODEL" src="https://github.com/user-attachments/assets/cf559c4e-8c10-4f3f-8244-c8c272b1dab6" />
 
 
 
